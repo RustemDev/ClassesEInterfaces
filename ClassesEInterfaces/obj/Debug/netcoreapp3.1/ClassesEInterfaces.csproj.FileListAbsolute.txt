@@ -1,0 +1,13 @@
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\bin\Debug\netcoreapp3.1\ClassesEInterfaces.exe
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\bin\Debug\netcoreapp3.1\ClassesEInterfaces.deps.json
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\bin\Debug\netcoreapp3.1\ClassesEInterfaces.runtimeconfig.json
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\bin\Debug\netcoreapp3.1\ClassesEInterfaces.runtimeconfig.dev.json
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\bin\Debug\netcoreapp3.1\ClassesEInterfaces.dll
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\bin\Debug\netcoreapp3.1\ClassesEInterfaces.pdb
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\obj\Debug\netcoreapp3.1\ClassesEInterfaces.csprojAssemblyReference.cache
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\obj\Debug\netcoreapp3.1\ClassesEInterfaces.AssemblyInfoInputs.cache
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\obj\Debug\netcoreapp3.1\ClassesEInterfaces.AssemblyInfo.cs
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\obj\Debug\netcoreapp3.1\ClassesEInterfaces.csproj.CoreCompileInputs.cache
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\obj\Debug\netcoreapp3.1\ClassesEInterfaces.dll
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\obj\Debug\netcoreapp3.1\ClassesEInterfaces.pdb
+C:\Projetos\ClassesEInterfaces\ClassesEInterfaces\obj\Debug\netcoreapp3.1\ClassesEInterfaces.genruntimeconfig.cache
